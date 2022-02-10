@@ -1,10 +1,10 @@
 /*
-* Interrupted Ultrasonic Sensor for Arduino UNO Sketch
-*
-* by Kris Fudalewski
-* 
-* www.fudcom.com
-*/
+ * Interrupted Ultrasonic Sensor for Arduino UNO Sketch
+ *
+ * by Kris Fudalewski
+ * 
+ * www.fudcom.com
+ */
 
 // -- Pin constants
 const int SONAR_TRIGGER_PIN = 12;
